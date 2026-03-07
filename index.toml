@@ -1,2 +1,5 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "README.md"
+hash = "832a4437d548e489514bd3bba6a98955c3040d01ab6b9f537c9b29b83b254030"
