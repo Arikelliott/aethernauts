@@ -1,0 +1,13 @@
+name = "Friends&Foes (Forge/NeoForge)"
+filename = "friendsandfoes-neoforge-4.0.21+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d231246dbe10af5af65ca7b4933e74b2fa55b6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7680887
+project-id = 602059

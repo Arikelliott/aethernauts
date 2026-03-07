@@ -1,0 +1,13 @@
+name = "OPack2Reload"
+filename = "0Pack2Reload-NeoForge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9654ef43899b5f1e18defdd1eaffc5062e48f39b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6786683
+project-id = 923755

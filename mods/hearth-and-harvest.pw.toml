@@ -1,0 +1,13 @@
+name = "Hearth and Harvest"
+filename = "hearthandharvest-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3be26438a27e87e4d1370965b43c25b259fefdec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7710240
+project-id = 1212197

@@ -1,0 +1,13 @@
+name = "Create: Delete and Repeat"
+filename = "create_delete_and_repeat-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1aa1fe3771c5c6ba5997c234208c471564b78932"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7446671
+project-id = 1350026
