@@ -1,0 +1,13 @@
+name = "Undergarden Additional Structures"
+filename = "undergarden_additional_structures.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe42bd33ccce5434334c299a89ae00ae860b682c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6178358
+project-id = 1194899

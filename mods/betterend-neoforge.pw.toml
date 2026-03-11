@@ -1,0 +1,13 @@
+name = "BetterEnd Neoforge"
+filename = "BetterEnd-21.0.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "beab6339c6872e11a3e13a136dcf3f554e51c22f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7637954
+project-id = 1422294

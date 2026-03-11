@@ -5,6 +5,58 @@ file = "README.md"
 hash = "832a4437d548e489514bd3bba6a98955c3040d01ab6b9f537c9b29b83b254030"
 
 [[files]]
+file = "config/incontrol/areas.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/events.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/lmft.json"
+hash = "adf033fbaab1635ff69880952817366a1abe84ff586504abc29ac96f13454f91"
+
+[[files]]
 file = "config/spawn.json"
 hash = "fbf88def514907ee17194b4436843122e238ce9aeb1bd612a8bd45927087cf7f"
 
@@ -38,7 +90,7 @@ hash = "6b19d7521bc040f9d4da6832972e43e3c252f2b5b63e9894834135dddf0e95e5"
 
 [[files]]
 file = "kubejs/server_scripts/delete-items.js"
-hash = "a9ee9ab0a0ce1632c95bbc9e41af6221a62cdc686abcfa0ea62d51b5a280b156"
+hash = "758fbe488643d1921d4f98583fb52508bd22d70320db8d3898ad79ab56a4a104"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -53,8 +105,23 @@ file = "mods/README.md"
 hash = "f2096f9f3e659f88b93c93fb261db471d6c60013d38aa75c630e2baee5c72991"
 
 [[files]]
+file = "mods/aerial-hell.pw.toml"
+hash = "f053eac366ba1f8046ca0280fcd420ad22f1473d1a77aecde1735507e5fe7bb8"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "59c9a1f969edd0ba1da9ba5ad6975951513225d0304a692c3d4c862e2360940c"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
+metafile = true
+
+[[files]]
+file = "mods/angel-islands.pw.toml"
+hash = "94238c0d603035ea68f8c15f952167df04f4f207681fb92c6b501f7f93895483"
 metafile = true
 
 [[files]]
@@ -73,8 +140,18 @@ hash = "8f6479b924d94dc3a11a29cdc3dfb093ffde5b1080c549c69a43218a0608b582"
 metafile = true
 
 [[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "2577da9ca2bb65783ccaefb8b269dea21dd7943c78504c0b87fe52d1d8690e7e"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
+metafile = true
+
+[[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "bf0af2d9b84966bae83f1778a4bfda5cb37ad001b9726f02cad5c27e784b95e5"
 metafile = true
 
 [[files]]
@@ -213,6 +290,21 @@ hash = "c96a979047088d50a4e397213a834ca6f2aaeb55b89e9a003529a06aaed1e9de"
 metafile = true
 
 [[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "7aa415b7ead3466d0845d147b52a58df023c5c9753be197408dcaacfb525d079"
+metafile = true
+
+[[files]]
+file = "mods/deeper-additional-structures.pw.toml"
+hash = "e7bdc5f1e63392377aa90ccc4d41a62343568bd184ff2585d5b7a5b2b32ed1ab"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
+metafile = true
+
+[[files]]
 file = "mods/dimthreads.pw.toml"
 hash = "b67667c6ec8e3a755c0b05f81930e4f77b5a1269aed6afd4d2ae889ca05ae020"
 metafile = true
@@ -243,6 +335,16 @@ hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-betterend.pw.toml"
+hash = "9048a47a5ca8249edb6dc7a5b0a358fd4fa1cb9cff5e292ced739a881bbe7856"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-the-aether.pw.toml"
+hash = "2ebcb9f608126f5516f2bc67ab3623859819b25ec34beabfc844f11efe11a421"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "caa3b01c9062f619f8f07ad73c853f574c0652bb95bf68f1e22e771f951fa01a"
 metafile = true
@@ -263,6 +365,11 @@ hash = "adddd5369c7558ec7524dc4a5f1c7fcacf1ed0b868835d4dfe99665adfc1f25f"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "093711628f921153cd954c278f237665b2c7cb3e91f304b8c0483c5ba8be5347"
 metafile = true
@@ -280,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "aa2ee25935ff64f2626023b07c4a5eb750e3ea4a6225dc028d5fbe503d01e9c1"
+metafile = true
+
+[[files]]
+file = "mods/hellish-trials.pw.toml"
+hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
 metafile = true
 
 [[files]]
@@ -403,6 +515,11 @@ hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
@@ -523,6 +640,16 @@ hash = "effe25fec637925f0ec3edc3f17463e6a58304838d97df2bc18261251fade202"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "4cdd3a94451efd61ad53cec5019557042cc9a3bc455632aa931663b70850958a"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "d9ce1aa81cafe071b3e387a14a7cf19f8dbd9eeab2467b4764da68205c0aa739"
+metafile = true
+
+[[files]]
 file = "mods/traveler-tool-belt.pw.toml"
 hash = "a8fcd083abbcda6613719a228634c257adf8fc678a0ad75776e159f719e29449"
 metafile = true
@@ -530,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-neoforge.pw.toml"
 hash = "8eecc7c597c9e84e8d3893d9ed388ee6999372fcaea6bd98a8de5d246ce0dd49"
+metafile = true
+
+[[files]]
+file = "mods/undergarden-additional-structures.pw.toml"
+hash = "89da317a0800097edd9ed65913ed4c22d1dd8a0e8c6a05601431f73ce6f50ba4"
 metafile = true
 
 [[files]]
@@ -545,6 +677,16 @@ metafile = true
 [[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "63d4a6aefa8b8231a03e6d7d4af9866673bae0b839a28964a522598cec44845c"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "00da203304054c1799db9ceb251a6c49b2af7b5fed7588c82b16f45960c913cf"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "2db6150114a149ac922dda026392b401969e31bd4b93e28c44296a9ec712bd65"
 metafile = true
 
 [[files]]
@@ -570,4 +712,24 @@ metafile = true
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
 hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "10815a3aa6dc436f8aa9b86dbb68368fbbcaff26f15fb06113b519b678e1a480"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "2e763194942381a7829dc6eb0503930a97408ee31ad7d05c77c6d094499e40d3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "66100a73e80ebb36aa78789dbcd49b2485459e834b75f7b2e893cc11c06f9a3f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "895288a3b51192f27cbf3e7e7ebfefd0d31e5660157864a4da40828d5c1dac05"
 metafile = true
