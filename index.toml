@@ -530,6 +530,11 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
+file = "mods/paxi-neoforge.pw.toml"
+hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "7248753c4bc930da1ed6ade510b8c12052e56370df3bba5a8cef19a7f8049e5e"
 metafile = true
