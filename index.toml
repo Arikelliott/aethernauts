@@ -120,6 +120,11 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/anchor-pearls.pw.toml"
+hash = "e91c38d23cdca00df991173394239c263fdd2396f52fde2a92c95b1066ec3319"
+metafile = true
+
+[[files]]
 file = "mods/angel-islands.pw.toml"
 hash = "94238c0d603035ea68f8c15f952167df04f4f207681fb92c6b501f7f93895483"
 metafile = true

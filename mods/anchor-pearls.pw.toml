@@ -1,0 +1,13 @@
+name = "Anchor Pearls"
+filename = "anchorpearls-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11722de1c28391d9e2f76d210c075e956d4e45f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7397187
+project-id = 1409109
