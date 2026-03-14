@@ -1,1 +1,7 @@
-[]
+[
+	{
+		"mob": "minecraft:villager",
+		"when": "onjoin",
+		"result": "deny"
+	}
+]
