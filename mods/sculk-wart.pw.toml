@@ -1,0 +1,13 @@
+name = "Sculk Wart"
+filename = "sculk_wart-1.0.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38157cc06afae3f1454ceb9ec450ce4fcc0219fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6945781
+project-id = 1337939

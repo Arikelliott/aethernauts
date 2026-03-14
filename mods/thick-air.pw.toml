@@ -1,0 +1,13 @@
+name = "Thick Air"
+filename = "thick_air-1.21.1-NeoForge-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7301c9805ead2132592a235c94c96888b50b0b1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406198
+project-id = 1418503

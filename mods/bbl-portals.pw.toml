@@ -1,0 +1,13 @@
+name = "BBL Portals"
+filename = "portals-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71e4e28528e686867583f6d18f3dbc96cbadc0be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7677945
+project-id = 1459079

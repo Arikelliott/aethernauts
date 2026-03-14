@@ -1,0 +1,13 @@
+name = "FTB Mighty Ender Chicken Rehatched"
+filename = "mighty-ender-chicken-rehatched-21.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05eb9a8734110d65e42fd5093b55ad48df7cb27a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7221222
+project-id = 1370164
