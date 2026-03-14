@@ -5,6 +5,42 @@ file = "README.md"
 hash = "832a4437d548e489514bd3bba6a98955c3040d01ab6b9f537c9b29b83b254030"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "6771644710b17adbdb5e797b4c591e18b2103b9b7cc71f9e1db5570a71e11738"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "e64ff9d58a9fcc732cf09b1aa0b8b370d87a1f7d1a060ba07f1c5448480fa21f"
+
+[[files]]
+file = "config/aether-server.toml"
+hash = "455385f809319fd3ff552655a8b1754ae1fce3be13cc25ee1e6d295c3b5c2a1f"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "e3915bf50d806c5caa3dcebc243818c2c4aeb149599b33e6286ea2828370dd69"
+
+[[files]]
+file = "config/aether/aether_customizations.txt"
+hash = "113f7dfc56b7b2efdc782e45356c87c47174bb76dc34dcef24ca2ec32c7908e1"
+
+[[files]]
+file = "config/aether/sun_altar_whitelist.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "84020bb6f9605237c7fe1956738d831c82448e5537a79f686c873e054e9b6e5c"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "5b5d52c94c011227fce80ec6d49942cb28619f58c08ee6a94b3cb3009754d6f8"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
 file = "config/incontrol/areas.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
@@ -59,6 +95,18 @@ hash = "adf033fbaab1635ff69880952817366a1abe84ff586504abc29ac96f13454f91"
 [[files]]
 file = "config/spawn.json"
 hash = "fbf88def514907ee17194b4436843122e238ce9aeb1bd612a8bd45927087cf7f"
+
+[[files]]
+file = "config/wover/cached.json"
+hash = "06ac9f2ff84c1b4eaa10dd3cfdba7f39c2ca0b2436a1297bbb6f68ba86c477a9"
+
+[[files]]
+file = "config/wover/client.json"
+hash = "3be91e6759d4b3e3120a2d165ed40c3d9b560cd6b7c42c273e27177b01d4ecd2"
+
+[[files]]
+file = "config/wover/main.json"
+hash = "0d3a7f0f0b4e4658b2c69a696218f5ef7cb9ac453426aff6777031aab942dc10"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -650,11 +698,6 @@ hash = "effe25fec637925f0ec3edc3f17463e6a58304838d97df2bc18261251fade202"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "4cdd3a94451efd61ad53cec5019557042cc9a3bc455632aa931663b70850958a"
-metafile = true
-
-[[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "d9ce1aa81cafe071b3e387a14a7cf19f8dbd9eeab2467b4764da68205c0aa739"
 metafile = true
@@ -740,6 +783,6 @@ hash = "66100a73e80ebb36aa78789dbcd49b2485459e834b75f7b2e893cc11c06f9a3f"
 metafile = true
 
 [[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "895288a3b51192f27cbf3e7e7ebfefd0d31e5660157864a4da40828d5c1dac05"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
