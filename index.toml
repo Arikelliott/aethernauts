@@ -38,7 +38,7 @@ hash = "84020bb6f9605237c7fe1956738d831c82448e5537a79f686c873e054e9b6e5c"
 
 [[files]]
 file = "config/betterend/generator.json"
-hash = "1af3aea0b156488c533f36d670917f6daa12e5fde2facd600299bff3016b7edd"
+hash = "5b5d52c94c011227fce80ec6d49942cb28619f58c08ee6a94b3cb3009754d6f8"
 
 [[files]]
 file = "config/betterend/portals.json"
@@ -86,15 +86,27 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "e6b24b1d9f6f47a930b82dcfc7d3062daed9bafe92977d81744da0c3c1ca34c9"
+hash = "fbf88def514907ee17194b4436843122e238ce9aeb1bd612a8bd45927087cf7f"
 
 [[files]]
 file = "config/incontrol/spawner.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "0bcc51fc62156424ffd5406f5e2207917b0b875df2dd29678e6f8f0543d0948b"
+
+[[files]]
 file = "config/lmft.json"
 hash = "adf033fbaab1635ff69880952817366a1abe84ff586504abc29ac96f13454f91"
+
+[[files]]
+file = "config/nerb/compat/emi.yaml"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -252,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/comfortable-campfires.pw.toml"
 hash = "da0c056b52f5b7329565eed74b2a51a23c7bbc2ccff37269eb39af87502a20e7"
+metafile = true
+
+[[files]]
+file = "mods/command-aliases.pw.toml"
+hash = "4727566ec602fde679114e461a164fb279d9ad9afd2c8ba4577f60dc803a8e84"
 metafile = true
 
 [[files]]
@@ -837,6 +854,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
 hash = "d16bcfd3d173cb1565a483fd3ae560dd11cd296b63b925e29625e0787d69f4d8"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "63d4a6aefa8b8231a03e6d7d4af9866673bae0b839a28964a522598cec44845c"
 metafile = true
 
 [[files]]
