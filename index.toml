@@ -121,6 +121,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/temperaturebands-common.toml"
+hash = "057baa7127dc1aab0b35b43b25e1448190e37df189c215ebb91bfb9ebf26719c"
+
+[[files]]
 file = "config/wover/cached.json"
 hash = "06ac9f2ff84c1b4eaa10dd3cfdba7f39c2ca0b2436a1297bbb6f68ba86c477a9"
 
