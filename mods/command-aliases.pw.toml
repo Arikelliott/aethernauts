@@ -1,0 +1,13 @@
+name = "Command Aliases"
+filename = "commandalias-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f1ec268c563fd57717fba97dc7e88700026afd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5489354
+project-id = 395949
