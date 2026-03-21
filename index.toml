@@ -177,6 +177,10 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
+file = "kubejs/startup_scripts/readd-casings.js"
+hash = "f5d5b1cf0b9755a9f86e2f1fa8998ae94d4ae5cd78c2d2cbd866e57d32bec691"
+
+[[files]]
 file = "mods/README.md"
 hash = "f2096f9f3e659f88b93c93fb261db471d6c60013d38aa75c630e2baee5c72991"
 
@@ -663,11 +667,6 @@ metafile = true
 [[files]]
 file = "mods/opack2reload.pw.toml"
 hash = "0ee59ccb5ab9ee377eee2d6a246f9f81d4c83aedc7a49e9e3488c7b398ddd403"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
 metafile = true
 
 [[files]]
