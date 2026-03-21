@@ -1,0 +1,13 @@
+name = "Stackable Items"
+filename = "StackableItems-neoforge-1.21.[0-1]-v1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df1a2e458aa0bb62f689f6175211cf9dbbae1441"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6559853
+project-id = 1245736
