@@ -460,26 +460,6 @@ hash = "58096a477ce5489d4c283d910b0e8b285c6fea7ed8dd9010136f6af9464cc6e9"
 metafile = true
 
 [[files]]
-file = "mods/dnt-desert-temple-overhaul.pw.toml"
-hash = "f7c82a9de37ed0416e9b9ff33ccb92159a10b85d5a0ec61781f4b634a921f6ba"
-metafile = true
-
-[[files]]
-file = "mods/dnt-jungle-temple-overhaul.pw.toml"
-hash = "d32fd96a06d0f708e4c613d10c700e1f42402c32d239c2d07578600a71ee649e"
-metafile = true
-
-[[files]]
-file = "mods/dnt-nether-fortress-overhaul.pw.toml"
-hash = "25d0d7bb1e7d5999402150afd965e6f5f8b6b9e5a94e2fadd95d5bc581a7ab11"
-metafile = true
-
-[[files]]
-file = "mods/dnt-ocean-monument-overhaul.pw.toml"
-hash = "0c45d8d12fe993224ea37b11e5ef2fbdf4b6560aaca7938217db0392a028ad3f"
-metafile = true
-
-[[files]]
 file = "mods/dnt-pillager-outpost-overhaul.pw.toml"
 hash = "64cb86049ceccbac91f9099f7913d163b8265aeabcbfb7c536f286077f7829e2"
 metafile = true
@@ -487,11 +467,6 @@ metafile = true
 [[files]]
 file = "mods/dnt-stronghold-overhaul.pw.toml"
 hash = "88901e62bd4c195ae07dc7b53bf54f52d1a330b0c84da0edd24e938d1022f8b1"
-metafile = true
-
-[[files]]
-file = "mods/dnt-woodland-mansion-overhaul.pw.toml"
-hash = "dabdd4071bef81076c7fe7ff6bfa85830f5d87efd25b069fb78eb7134304b567"
 metafile = true
 
 [[files]]
