@@ -1,0 +1,13 @@
+name = "Harder Natural Healing"
+filename = "neo_21.1_HarderNaturalHealing_CC-0.1.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0dd18d8717a92f2408cee2011979f3615fb1358c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7586528
+project-id = 420735

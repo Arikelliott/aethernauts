@@ -1,0 +1,13 @@
+name = "No Enderman in the dragon fight"
+filename = "no_enderman_in_the_dragon_fight-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b8e86a1337ba1f27ccc73f9c9a822b450869215"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5801502
+project-id = 1117928
