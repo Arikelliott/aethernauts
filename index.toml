@@ -710,11 +710,6 @@ hash = "31c837d23b18a6283742ec38d990bacc08ea2a20b1e87cc9c81e9c08583c3aa6"
 metafile = true
 
 [[files]]
-file = "mods/metal-bundles.pw.toml"
-hash = "6abd7257dbed69fa3798a21016d2267e3a2a90acc25b3bcc0018ff9657115995"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f618fd1fa79ac4386d1864d521c6935d5d2c4951f6bb1fce29994dae7a1fd91"
 metafile = true
@@ -905,11 +900,6 @@ hash = "f23fe0578a48a6649171a7e5a90eed1490308388fc74bce6017b0517ee2018a6"
 metafile = true
 
 [[files]]
-file = "mods/stackable-items.pw.toml"
-hash = "2c56b3730ecce9ef5212b950362aaf2ef58c84578d899e7f0aa8b7c145d819fc"
-metafile = true
-
-[[files]]
 file = "mods/starter-structure.pw.toml"
 hash = "fffd0538ac1cb98d6ea6a7dc28cdb02313e708cd9d2568c65e0a535be304bc4c"
 metafile = true
@@ -967,11 +957,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-neoforge.pw.toml"
 hash = "8eecc7c597c9e84e8d3893d9ed388ee6999372fcaea6bd98a8de5d246ce0dd49"
-metafile = true
-
-[[files]]
-file = "mods/true-ending.pw.toml"
-hash = "c98091a3c98f5bf8f512541d6e003e3d87bb0bdec6f0d07c7f5948607b2680e9"
 metafile = true
 
 [[files]]
