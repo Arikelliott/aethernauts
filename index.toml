@@ -121,10 +121,6 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/temperaturebands-common.toml"
-hash = "125dbdc7ba3a6cfde806f19d5b8fcba045cef3df13b9372b09fc288f97b4b821"
-
-[[files]]
 file = "config/wover/cached.json"
 hash = "06ac9f2ff84c1b4eaa10dd3cfdba7f39c2ca0b2436a1297bbb6f68ba86c477a9"
 
@@ -902,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "ba25bc1258353f757758fb7f6d3367d29c70f043ebe1c0f2222ce3f15766bcf0"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
