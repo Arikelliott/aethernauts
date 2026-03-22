@@ -122,7 +122,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/temperaturebands-common.toml"
-hash = "057baa7127dc1aab0b35b43b25e1448190e37df189c215ebb91bfb9ebf26719c"
+hash = "125dbdc7ba3a6cfde806f19d5b8fcba045cef3df13b9372b09fc288f97b4b821"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -710,6 +710,11 @@ hash = "31c837d23b18a6283742ec38d990bacc08ea2a20b1e87cc9c81e9c08583c3aa6"
 metafile = true
 
 [[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "6abd7257dbed69fa3798a21016d2267e3a2a90acc25b3bcc0018ff9657115995"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f618fd1fa79ac4386d1864d521c6935d5d2c4951f6bb1fce29994dae7a1fd91"
 metafile = true
@@ -807,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "98bbba48eddf402b09107de563d7b4370d1ae70a1a6210054cd13065072a9d97"
 metafile = true
 
 [[files]]
