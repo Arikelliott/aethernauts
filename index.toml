@@ -945,11 +945,6 @@ hash = "e3a08466e5961b0a5433e4c339454b96a03028e5e2c5019c5611457636b4378b"
 metafile = true
 
 [[files]]
-file = "mods/temperaturebands.pw.toml"
-hash = "effe25fec637925f0ec3edc3f17463e6a58304838d97df2bc18261251fade202"
-metafile = true
-
-[[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "d9ce1aa81cafe071b3e387a14a7cf19f8dbd9eeab2467b4764da68205c0aa739"
 metafile = true
