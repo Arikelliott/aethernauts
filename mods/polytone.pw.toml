@@ -1,13 +1,13 @@
 name = "Polytone"
-filename = "polytone-1.21-3.6.4-neoforge.jar"
+filename = "polytone-neoforge-1.21-3.8.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "876d3b6e6ce69782149e73dac6c61c98be2e2485"
+hash = "7e7ca27d3dde1743aa37e77a02404863c89d48f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7526016
+file-id = 8372134
 project-id = 958094

@@ -1,13 +1,13 @@
 name = "Create Photomovement"
-filename = "createphotomovement-neoforge-1.21.1-0.3.1.jar"
+filename = "createphotomovement-neoforge-1.21.1-0.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e1a825605288f87a9b5152aa422d162487530c1f"
+hash = "af78e7cedba192a2556736f914580ff83ae266db"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7633983
+file-id = 8079386
 project-id = 1424756
