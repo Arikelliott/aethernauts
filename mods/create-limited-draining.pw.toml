@@ -1,0 +1,13 @@
+name = "Create: Limited Draining"
+filename = "createlimiteddraining-1.21.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8490a12034c3c6ec44cb6edc3027bf74170fd45c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8037577
+project-id = 1267373

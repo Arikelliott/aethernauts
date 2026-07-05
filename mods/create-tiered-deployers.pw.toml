@@ -1,0 +1,13 @@
+name = "Create: Tiered Deployers"
+filename = "tiereddeployers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6439162273560e6f316577cb7f331a51425b7fed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8067888
+project-id = 1539186

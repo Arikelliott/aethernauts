@@ -1,0 +1,13 @@
+name = "Create Cogs Invaders"
+filename = "create_cogs_invaders-0.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6163b61a592eb9096e22b395c7f75aa8894a25ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8368437
+project-id = 1243593

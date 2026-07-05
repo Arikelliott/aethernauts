@@ -1,0 +1,13 @@
+name = "Uniful"
+filename = "unify-1.0a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7dc0379c49cd881d671a8e2cb846052060f2226"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6771148
+project-id = 1302366
