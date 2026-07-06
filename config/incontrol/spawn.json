@@ -3,5 +3,19 @@
 		"mob": "minecraft:villager",
 		"when": "onjoin",
 		"result": "deny"
+	},
+
+
+
+	{
+		"mob": "minecraft:zombie",
+		"seesky": true,
+		"mincount": 6,
+		"result": "deny"
+	},
+	{
+		"mob": ["minecraft:skeleton", "minecraft:creeper", "minecraft:spider"],
+		"seesky": true,
+		"result": "deny"
 	}
 ]

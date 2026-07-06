@@ -45,6 +45,10 @@ file = "config/betterend/portals.json"
 hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
 
 [[files]]
+file = "config/create_extra_casing-common.toml"
+hash = "a78e2ad832c7c85b9a635724e48990d63125d83e64903c7b909d9a71dc95cee7"
+
+[[files]]
 file = "config/incontrol/areas.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
@@ -86,7 +90,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "fbf88def514907ee17194b4436843122e238ce9aeb1bd612a8bd45927087cf7f"
+hash = "d73cdae6de58020004843b89187ec24d5e4690aaa0ddf72ff041e314de2e3c54"
 
 [[files]]
 file = "config/incontrol/spawner.json"
