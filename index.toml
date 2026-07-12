@@ -33,6 +33,10 @@ file = "config/amendments-client.toml"
 hash = "4a66da5e0a4d68313ba9592cf94fc0093a61cd4a4f5e747f1d11105a27ac00f1"
 
 [[files]]
+file = "config/antiportals-common.toml"
+hash = "f0cc7603cdd0f6ca729085a4fe3f6bc0552618257e4d1771741cdb8a66235a8a"
+
+[[files]]
 file = "config/betterend/client.json"
 hash = "84020bb6f9605237c7fe1956738d831c82448e5537a79f686c873e054e9b6e5c"
 
@@ -141,6 +145,42 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_axe.png"
+hash = "8c699e57325bb3b8d1c0b184af9a71978a6dfec5abcd3290603dc779c70542f3"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_boots.png"
+hash = "ec8de55067ad02a5fd06213d19cb5ab4c2f78982379bd6608c56b5cce5dce9aa"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_chestplate.png"
+hash = "fede7c1a2475390ca23afce3ad20a7a8008d7c0a5aa1e32cde744a0c42eb8a75"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_helmet.png"
+hash = "71a338903ac5e50527daf24fc41b3d60480d773c5213551e9deefcada442d4ea"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_hoe.png"
+hash = "3abaeab0886aafe846aebb5f3197aa9da295b2e698fb41b746b7dcde477a3786"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_leggings.png"
+hash = "98096be03f3c21fead51d94a4c1696c8cde2da9ecebd11f5cd48a02136fd84fd"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_pickaxe.png"
+hash = "8b6bb9d584776bb5bde28247d909901d0b36cf10105185bee78d5955071744da"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_shovel.png"
+hash = "e2d56eb3540cb04d4ca5d71f05bbf2a5dcab744b787220afc850499b72699c09"
+
+[[files]]
+file = "kubejs/assets/aethernauts/textures/item/copper_sword.png"
+hash = "f02e82444b6d9450e0c311a056ebf882f80363b70bf01eeb69a4ed4465e96550"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -173,12 +213,20 @@ file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
+file = "kubejs/server_scripts/tools.js"
+hash = "494d940beffb3e6741cbf5759273c87dda4cc9129592ca85f6c77f1e31e311a0"
+
+[[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/readd-casings.js"
 hash = "f5d5b1cf0b9755a9f86e2f1fa8998ae94d4ae5cd78c2d2cbd866e57d32bec691"
+
+[[files]]
+file = "kubejs/startup_scripts/tools.js"
+hash = "d55d92f212f56c0f0540f589b6bebc88c996baf088701d9a0e52605326760269"
 
 [[files]]
 file = "mods/README.md"
@@ -212,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/angel-islands.pw.toml"
 hash = "94238c0d603035ea68f8c15f952167df04f4f207681fb92c6b501f7f93895483"
+metafile = true
+
+[[files]]
+file = "mods/antiportals.pw.toml"
+hash = "7ee099f2ad76349db6e5092ef285c461275931dbdfa15812fd659bca4d4b8480"
 metafile = true
 
 [[files]]
@@ -532,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/harder-natural-healing.pw.toml"
 hash = "b1c531eaabf32950e7e544474bf71488e2decac0fab432f3c7aa5b1092b6af2e"
-metafile = true
-
-[[files]]
-file = "mods/hearth-and-harvest.pw.toml"
-hash = "963e60fb807ae0f222261d121d89916d197ee5c37624c620bb9b7b63bfe7bec0"
 metafile = true
 
 [[files]]
