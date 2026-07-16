@@ -7,7 +7,7 @@ ItemEvents.toolTierRegistry(event => {
     tier.attackDamageBonus = 1
     tier.incorrectBlocksForDropsTag = 'minecraft:incorrect_for_stone_tool'
     tier.enchantmentValue = 12
-    tier.repairIngredient = '#forge:ingots/copper'
+    tier.repairIngredient = 'minecraft:copper'
   })
 })
 
